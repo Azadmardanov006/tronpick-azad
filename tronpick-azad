@@ -379,7 +379,7 @@ lang="az" style="display: block;" class="translated-ltr"><head><meta http-equiv=
 									<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">0,060000 TRX</font></font></td>
 								</tr>
 																<tr class="history_row">
-									<td><span style="font-weight: 700"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Qızıl</font></font><i class="fas fa-check"></i></span></td>
+									<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Qızıl</font></font></td>
 									<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">0,250000 TRX</font></font></td>
 								</tr>
 																<tr class="history_row">
@@ -391,7 +391,7 @@ lang="az" style="display: block;" class="translated-ltr"><head><meta http-equiv=
 									<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.000000 TRX</font></font></td>
 								</tr>
 																<tr class="history_row">
-									<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ustad</font></font></td>
+									<td><span style="font-weight: 700"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ustad</font></font><i class="fas fa-check"></i></span></td>
 									<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">30.000.000 TRX</font></font></td>
 								</tr>
 															</tbody>
